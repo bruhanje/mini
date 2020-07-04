@@ -1,0 +1,20 @@
+<!--pages/demo10/demo10.wxml-->
+<swiper autoplay interval="2000" circular indicator-dots >
+
+<swiper-item >
+  <image src="https://img.alicdn.com/simba/img/TB1ZhOWMbr1gK0jSZFDSuv9yVXa.jpg" mode="widthFix" />
+</swiper-item>
+<swiper-item >
+    <image  src="https://img.alicdn.com/simba/img/TB1bMyeBAY2gK0jSZFgSuw5OFXa.jpg" mode="widthFix"  />
+      
+</swiper-item>
+<swiper-item >
+    <image  src="//img.alicdn.com/tps/i4/TB17cCkMuH2gK0jSZJnSuuT1FXa.jpg_q90_.webp" mode="widthFix"  />
+      
+</swiper-item>
+  
+  
+  
+    
+</swiper>
+  

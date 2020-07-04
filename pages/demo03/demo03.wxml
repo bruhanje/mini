@@ -1,0 +1,14 @@
+<!--pages/demo01/demo01.wxml-->
+<view>{{msg}}</view>
+<view>{{num}}</view>
+<view>
+<view wx:for="{{list}}" 
+      wx:for-item="item" 
+      wx:for-index="index"
+      wx:key="id">
+    索引:{{index}}
+    --
+    值:{{item.name}}
+
+</view>
+</view>
